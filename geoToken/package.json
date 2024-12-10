@@ -1,0 +1,17 @@
+{
+  "name": "geotoken",
+  "version": "1.0.0",
+  "description": "token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "geovana",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
